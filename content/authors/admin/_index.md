@@ -10,7 +10,11 @@ authors:
   - admin
 bio: ""
 interests:
-  - ""
+  - Social Cognition
+  - Social Neuroscience
+  - Social Categorization
+  - Person Perception
+  - and Intersectionality.
 social:
   - icon: envelope
     icon_pack: fas

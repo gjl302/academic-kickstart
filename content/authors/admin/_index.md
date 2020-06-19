@@ -1,6 +1,6 @@
 ---
 title: Gustav JW Lundberg
-role: 4th Year PhD Student
+role: PhD Student
 avatar_filename: cropped-picture-of-gustav.jpg
 organizations:
   - name: New York University

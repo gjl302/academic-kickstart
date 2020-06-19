@@ -14,7 +14,7 @@ interests:
   - Social Neuroscience
   - Social Categorization
   - Person Perception
-  - and Intersectionality.
+  - Intersectionality
 social:
   - icon: envelope
     icon_pack: fas

@@ -29,7 +29,15 @@ social:
     icon_pack: fab
     link: https://github.com/gjl302
 education:
-  courses: []
+  courses:
+    - course: PhD in Psychology, Expected (2022)
+      institution: New York University
+    - course: B.A. in Psychology
+      institution: University of Iowa
+      year: 2017
+    - course: B.A. in Sociology
+      institution: University of Iowa
+      year: 2017
 email: gustavjwlundberg@gmail.com
 user_groups:
   - Researchers

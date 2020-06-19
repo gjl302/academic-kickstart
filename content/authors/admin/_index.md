@@ -1,7 +1,7 @@
 ---
 title: Gustav JW Lundberg
 role: PhD Student
-avatar_filename: cropped-picture-of-gustav.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: New York University
     url: ""

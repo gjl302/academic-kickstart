@@ -21,7 +21,7 @@ subtitle = ""
   description = ""
   
   [[feature]]
-  icon = "fa-js"
+  icon = "fab fa-js"
   icon_pack = "fab"
   name = "JavaScript"
   description = ""

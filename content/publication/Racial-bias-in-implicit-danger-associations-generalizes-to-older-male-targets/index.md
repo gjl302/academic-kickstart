@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Racial bias in implicit danger associations generalizes to older male targets"
 authors:
 - Lundberg, Gustav JW
 - Neel, R.

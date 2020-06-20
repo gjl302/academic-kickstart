@@ -6,8 +6,6 @@ authors:
 - Lassetter, B.
 - & Todd, A. R
 author_notes:
-- ""
-- ""
 date: "2018-05-01T00:00:00Z"
 doi: ""
 
@@ -21,7 +19,7 @@ publishDate: "2018-06-06T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* PloS one*, 13(6), e0197398"
+publication: "*PloS one*, 13(6), e0197398"
 publication_short: ""
 
 abstract:

@@ -44,5 +44,3 @@ user_groups:
   - Visitors
 ---
 I am a fourth year PhD student in the Social Psychology program at NYU, working with <a href="http://www.jonbfreeman.com/">Dr. Jonathan B. Freeman</a> in the <a href="https://www.freemanlab.org/">Social Cognitive & Neural Sciences Lab</a>. I am interested in the cognitive and neural mechanisms underlying social categorization. My past research has examined how age interacts with racial stereotypes.
-
-In my free time I enjoy swing dancing, Brazilian Jiu-jitsu, and flight simming.

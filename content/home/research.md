@@ -50,12 +50,19 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **personal demo** of Academic. Other demos available include:
+**Multiracial Categorization**
 
-- [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
+When we see another person’s face, we rapidly and automatically categorize their race, gender, and age. Recent research on social categories has begun to examine how multiracial induviduals are categorized. I am interested in answering questions related to this topic. How do we categorize induviduals that are multiracial? How does multiracial categorization unfold as a dynamic process? How do our stereotypes and prejudices influence the activation of visual cues found in the face of a stranger?
 
-**Over 100,000 [Amazing Websites](https://sourcethemes.com/academic/#expo) have Already Been Built with Academic**
+Findings from my work suggest that perceivers experience a reflexive monoracial attraction that influences the efficency of multiracial categorizations. This reflexive attraction appears to be moderated by exposure to multiracial induviduals and influences later social evaluations.
 
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
+**Intersectionality**
 
-**Lundberg, G. J.**, Neel, R., Lassetter, B., & Todd, A. R. (2018). Racial bias in implicit danger associations generalizes to older male targets. _PloS one_, 13(6), e0197398.
+I am currently conducting research that aims to further our understanding of how people automatically encode intersectional identities and what factors influence their ability to recall recently learned intersectional identies.
+
+**Geospatial Analysis of Stereotypes/Prejudice**
+
+As part of my research on stereotypes and prejudice, I aim to model how enviormental factors like geographic location can influence the stereotypes and prejudice that percievers use when making split-second judgments of others. I am particularly interested in relating this to topics such as the rural vs. urban divide.
+
+
+

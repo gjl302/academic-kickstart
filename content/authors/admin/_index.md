@@ -43,4 +43,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Gustav J.W. Lundberg is a fourth year PhD student in the Social Psychology program at NYU, working with <a href="http://www.jonbfreeman.com/">Dr. Jonathan B. Freeman</a> in the <a href="http://psych.nyu.edu/freemanlab/index.htm">Social Cognitive & Neural Sciences Lab</a>. He is interested in the cognitive and neural mechanisms underlying social categorization. His past research has examined how age interacts with racial stereotypes.
+Gustav J.W. Lundberg is a fourth year PhD student in the Social Psychology program at NYU, working with <a href="http://www.jonbfreeman.com/">Dr. Jonathan B. Freeman</a> in the <a href="https://www.freemanlab.org/">Social Cognitive & Neural Sciences Lab</a>. He is interested in the cognitive and neural mechanisms underlying social categorization. His past research has examined how age interacts with racial stereotypes.

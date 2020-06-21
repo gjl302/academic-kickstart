@@ -54,7 +54,7 @@ subtitle = ""
 
 **Lundberg, G. J.**, Lick, D.J., Lassetter, B., & Freeman, J.B. (Under Review). A Dynamic Account of Multiracial Categorization.
 
-**Lundberg, G. J.**, Neel, R., Lassetter, B., & Todd, A. R. (2018). <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197398">Racial bias in implicit danger associations generalizes to older male targets. _PloS_ _one_, 13(6), e0197398.
+**Lundberg, G. J.**, Neel, R., Lassetter, B., & Todd, A. R. (2018). <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197398">Racial bias in implicit danger associations generalizes to older male targets. PloS one, 13(6), e0197398.
 
 
 

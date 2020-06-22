@@ -67,9 +67,9 @@ subtitle = ""
  css_class = ""
 +++
 
-**Lundberg, G. J.**, Martin, J., & Freeman, J.B. (Under Review). Accurate social categorization depends on the match between perceiver stereotypes and target stereotypicality.
+**Lundberg, G. J.**, Martin, J., & Freeman, J.B. (In Prep). Accurate social categorization depends on the match between perceiver stereotypes and target stereotypicality.
 
-**Lundberg, G. J.**, Lick, D.J., Lassetter, B., & Freeman, J.B. (Under Review). A Dynamic Account of Multiracial Categorization.
+**Lundberg, G. J.**, Lick, D.J., Lassetter, B., & Freeman, J.B. (In Prep). A Dynamic Account of Multiracial Categorization.
 
 **Lundberg, G. J.**, Neel, R., Lassetter, B., & Todd, A. R. (2018). {{% staticref "files/journal.pone.0197398.pdf" "newtab" %}}Racial bias in implicit danger associations generalizes to older male targets.{{% /staticref %}} _PloS_ _one_, 13(6), e0197398.
 
